@@ -1,0 +1,7 @@
+The Word Counter program is a Java application that enables users to determine the number of words in a specified text. It presents two options for input: manual text entry or text retrieval from a file. The program employs various techniques to process the input text and provide valuable information about the words.
+
+Upon execution, the program prompts the user to select between manual text entry or file provision. If the user opts for manual entry, they can directly input the text. If they choose to provide a file, they must provide the file path.
+
+The program then computes the total word count in the given text using the countWords method. It divides the text into an array of words using whitespace as a delimiter and returns the length of the array as the word count.
+
+Furthermore, the program offers two additional features, namely getUniqueWords and getWordFrequency, which are currently commented out in the code. These features can be uncommented to display the count of unique words and the frequency of each word in the text, respectively.

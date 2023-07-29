@@ -1,0 +1,6 @@
+Users can check their account balance, make withdrawals, and make deposits using this Java program's basic ATM interface. 
+With a menu-driven architecture, it offers a straightforward command-line user interface. 
+
+Based on the success or failure of transactions, the program verifies user input and displays the necessary messages. 
+The ATM object stores the account balance, and withdrawals are only allowed when the account has enough money. 
+The program serves as a foundation for the development

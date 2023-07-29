@@ -1,0 +1,7 @@
+Introducing a Java program that is both entertaining and interactive - the 'Guess the Number' game! 
+The objective of the game is to guess a number between 1 and 100, which can be played with ease. Simply
+ input your guess, and the program will inform you if it is too high or too low. Continue guessing until 
+you arrive at the correct number! Each time you guess correctly, the program will display the number of 
+attempts it took. For added enjoyment, you may choose to replay the game by typing 'yes' or exit by 
+typing 'no'. This game is a straightforward method to test your guessing abilities while simultaneously 
+providing entertainment.
